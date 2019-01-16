@@ -1,2 +1,2 @@
 let currentUser = "me"
-let welcome
+let welcomeMessage = ""
