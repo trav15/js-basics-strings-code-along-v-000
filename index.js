@@ -1,3 +1,3 @@
 let currentUser = "me"
 let welcomeMessage = "Welcome to Flatbook, " + currentUser + "!"
-let excitedWelcome = "WELCOME TO FLATBOOK, " + currentUser + "!"
+let excitedWelcomeMessage = "WELCOME TO FLATBOOK, " + currentUser + "!"
